@@ -1,2 +1,2 @@
-# ExerciciosMySQL2
-Aqui está meu segundo exercício no MySQL. Ainda em aprendizagem, porém feitos com muita dedicação!
+# ExerciciosMySQL1
+Aqui estão primeiros exercícios no MySql. Compostos de muita dedicação! Ressalto que ainda estão em fase de aprendizagem, então podem conter erros. 
